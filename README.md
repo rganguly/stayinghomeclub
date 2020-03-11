@@ -15,6 +15,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 | Apartment List | Required | Restricted | Restricted | Restricted | 2020-03-06 |
 | Apple[[1]](https://www.bloomberg.com/news/articles/2020-03-08/apple-s-cook-offers-work-from-home-this-week-to-most-staff) | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | AppsFlyer [1](https://twitter.com/ariapplbaum/status/1237293574498238465?s=20) | Required | Restricted | Restricted | Restricted | 2020-03-10 |
+| Apptentive | Required   | Restricted  | Restricted |  Restricted |  2020-03-11 |
 | Asana | Encouraged | Restricted | Restricted | Restricted | 2020-03-09 |
 | Atlassian | Encouraged | Restricted | ? | ? | 2020-03-06 |
 | Autodesk | Encouraged | Restricted | ? | Restricted | 2020-03-09 |
